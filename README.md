@@ -4,7 +4,7 @@ I am passionate about leveraging data to derive meaningful insights and drive bu
 
 I have actively enhanced my data analytics skills through the Google Data Analytics Professional certification on Coursera. This has further solidified my expertise in data analysis and visualization.
 
-Verify this certificate at: https://www.coursera.org/account/accomplishments/specialization/certificate/JMLA5PNL3EHD
+Verify this certificate at: https://www.credly.com/badges/c2db2e5d-faf1-45c1-ae81-c3190a29b50c/public_url
 
 🛠️ Technical Acumen: Linux Hosting | cPanel | Google Sheets
 
